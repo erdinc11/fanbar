@@ -49,7 +49,7 @@ Most fan utilities are either closed source or heavier than they need to be. Fan
 
 | Menu item | What it does |
 |---|---|
-| `Fan: 3,448 RPM` | Live actual fan speed (updates every second) |
+| `Fan: 3448 RPM` | Live actual fan speed (updates every second) |
 | `Auto` | Hands the fan back to macOS |
 | `2.5k` … `6.8k (Full)` | Fixed targets inside the fan's real range |
 | `Manual RPM…` | Enter a custom value between the fan's minimum and maximum |
